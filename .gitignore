@@ -1,0 +1,38 @@
+# Build artifacts
+/target/
+**/*.rs.bk
+*.pdb
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Game data
+*.mca
+*.mcr
+*.dat
+*.lock
+
+# Logs
+*.log
+logs/
+
+# Editor directories
+.vs/
+*.user
+
+# Downloaded assets
+assets/textures/
+assets/sounds/
+assets/music/
